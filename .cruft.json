@@ -1,0 +1,17 @@
+{
+  "template": "https://github.com/initworx-templates/cookiecutter_commandline",
+  "commit": "b4f0d93f4fba4ee70750ea3320053ed332084758",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "project_name": "tinyscaf",
+      "author_name": "Marcus Robb",
+      "starting_version": "0.0.1",
+      "email": "marcus.robb@initworx.com",
+      "description": "A tiny app to tinyscafold individual files.",
+      "python_version": "^3.12",
+      "_template": "https://github.com/initworx-templates/cookiecutter_commandline"
+    }
+  },
+  "directory": null
+}
